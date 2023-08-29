@@ -1,6 +1,6 @@
 # Portfolio Website
 
-![Portfolio Website Preview](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Portfolio Website Preview" width="200"/>
 
 Welcome to my portfolio website repository! This project showcases multiple website templates, each designed for different purposes. Feel free to explore and use these templates as a starting point for your projects.
 
@@ -8,10 +8,14 @@ Welcome to my portfolio website repository! This project showcases multiple webs
 
 Explore live examples of these website templates:
 
-- [Example One](https://data-structure-website.netlify.app/)
-- [Example Two](./Preview%20Images/two.png)
-- [Example Three](./Preview%20Images/three.png)
-- ...
+- [Check out the Christmas Website](https://christmas-websi.netlify.app/)
+- [Check out the Doctor Website](https://doctor-webs.netlify.app/)
+- [Check out the E-commerce Website](https://e-commerce-webs.netlify.app/)
+- [Check out the Food Website](https://food-webe.netlify.app/)
+- [Check out the Hotel Website](https://hotel-websitr.netlify.app/)
+- [Check out the Jewellery Website](https://jwellery-webb.netlify.app/)
+- [Check out the Pizza Website](https://pizza-webs.netlify.app/)
+- [Check out the Jewellery Website](https://jwellery-webb.netlify.app/)
 
 ## Table of Contents
 
@@ -39,8 +43,6 @@ This project includes various sections for building a comprehensive portfolio we
 - ✔️ Education
 - ✔️ Contact Info
 - ✔️ Resume
-
-
 
 ## Contributing 💡
 
