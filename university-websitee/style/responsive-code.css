@@ -1,0 +1,61 @@
+@media (max-width: 800px) {
+    .text-box h1 {
+        font-size: 5.2rem;
+    }
+    .nav-links {
+        position: absolute;
+        background: #f44336;
+        height: 100vh;
+        width: 200px;
+        top: 0;
+        right: -250px;
+        text-align: left;
+        z-index: 2;
+        transition: 1s;
+    }
+    .nav-links ul li {
+        display: block;
+        padding: 2rem;
+    }
+    nav .hide {
+        display: block;
+        color: #fff;
+        margin: 1rem;
+        font-size: 2.6rem;
+        cursor: pointer;
+    }
+    .nav-links ul {
+        padding: 3rem;
+    }
+    .course h1 {
+        font-size: 3rem;
+    }
+    .row {
+        grid-template-columns: 1fr;
+    }
+    .campus-col img {
+        width: 60%;
+    }
+    .campus-col {
+        margin-bottom: 0;
+    }
+    .campus h1 {
+        font-size: 3rem;
+    }
+    .layer {
+        margin-top: 2rem;
+    }
+    .row-1 {
+        flex-direction: column;
+    }
+    .sub-header {
+        height: 50vh;
+    }
+    .header {
+        height: 50vh;
+    }
+    @media (max-width: 500px) {
+        p {
+            font-size: 1.7rem;
+        }
+    }
