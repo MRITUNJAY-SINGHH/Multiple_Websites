@@ -15,7 +15,8 @@ Explore live examples of these website templates:
 - [Check out the Hotel Website](https://hotel-websitr.netlify.app/)
 - [Check out the Jewellery Website](https://jwellery-webb.netlify.app/)
 - [Check out the Pizza Website](https://pizza-webs.netlify.app/)
-- [Check out the Jewellery Website](https://jwellery-webb.netlify.app/)
+- [Check out the Restaurant Website](https://restaurant-webs.netlify.app/)
+- [Check out the Portfolio Website](https://portfolio-websitt.netlify.app/)
 
 ## Table of Contents
 
